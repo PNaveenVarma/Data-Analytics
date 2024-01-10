@@ -6,9 +6,8 @@
 ![](/assets/carcrash.jpeg)
 
 Project links
-- ![](/assets/github.jpeg)
-- <img src="/assets/github.jpeg" alt="Alt Text" width="30" height="20">
-- [GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
+
+- <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
 
 Skills
 - Python |  Data Analysis | Machine Learning 
