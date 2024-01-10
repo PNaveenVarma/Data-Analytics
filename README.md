@@ -2,7 +2,7 @@
 
 ## 1
 Driver injury severity analysis in automobile crashes using Knime 
-![](/assets/car.jpeg)￼
+![](/assets/car crash.jpeg)￼
 
 Project links
 - [GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
