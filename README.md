@@ -6,7 +6,7 @@
 ![](/assets/carcrash.jpeg)
 
 Project links
-- [GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
+- ![](/assets/github)[GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
 
 Skills
 - Python |  Data Analysis | Machine Learning 
