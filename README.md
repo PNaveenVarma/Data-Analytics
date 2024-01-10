@@ -6,7 +6,7 @@
 ![](/assets/carcrash.jpeg)
 
 Project links
-- ![](/assets/github)
+- ![](/assets/github.jpeg)
 - [GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
 
 Skills
