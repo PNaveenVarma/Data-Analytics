@@ -18,8 +18,6 @@ About this project
 Impact of this project
 - The insights are valuable for anyone dedicated to improving road safety, the Healthcare Industry, the Insurance Industry, the Car Manufacturing Industry, and many more.
 
-
-![](/assets/divider.png)
 --------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------
 
