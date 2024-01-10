@@ -1,7 +1,8 @@
 # Data-Analytics
 
 ## 1
-Driver injury severity analysis in automobile crashes using Knime 
+<h1>Driver injury severity analysis in automobile crashes using Knime </h1>
+
 ![](/assets/carcrash.jpeg)
 
 Project links
