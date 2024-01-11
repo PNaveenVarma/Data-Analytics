@@ -41,3 +41,20 @@ Impact of this project
 
 ********************************************************************************************************************************
 ********************************************************************************************************************************
+
+## 3
+<h1>Ballot Fortunes: Forecasting County Stance on Legalizing Gambling using Knime</h1> 
+
+![](/assets/churn.jpeg)
+
+Project links
+- <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/Ballot-Fortunes-Forecasting-County-Stance-on-Legalizing-Gaming)
+
+Skills
+- Knime |  Data Analysis | Predictive Analytics 
+
+About this project
+- Leveraging a dataset with 1287 entries and 31 variables, our objective is to predict the percentage of support for gambling legalization by considering demographic, socio-economic, and other relevant factors.
+
+********************************************************************************************************************************
+********************************************************************************************************************************
