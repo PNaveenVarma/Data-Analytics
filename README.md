@@ -5,8 +5,7 @@
 
 ![](/assets/carcrash.jpeg)
 
-Project links
-
+Project link
 - <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
 
 Skills
@@ -27,7 +26,7 @@ Impact of this project
 
 ![](/assets/churn.jpeg)
 
-Project links
+Project link
 - <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/Customer-Churn-Prediction)
 
 Skills
@@ -45,9 +44,9 @@ Impact of this project
 ## 3
 <h1>Ballot Fortunes: Forecasting County Stance on Legalizing Gambling using Knime</h1> 
 
-![](/assets/churn.jpeg)
+![](/assets/gambling.jpeg)
 
-Project links
+Project link
 - <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/Ballot-Fortunes-Forecasting-County-Stance-on-Legalizing-Gaming)
 
 Skills
